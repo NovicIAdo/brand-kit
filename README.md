@@ -30,6 +30,7 @@ https://raw.githubusercontent.com/NovicIAdo/brand-kit/main/<path>
 | Green | ![ellipse green](logos/ellipse/green.png) | [PNG](https://raw.githubusercontent.com/NovicIAdo/brand-kit/main/logos/ellipse/green.png) | [SVG](https://raw.githubusercontent.com/NovicIAdo/brand-kit/main/logos/ellipse/green.svg) |
 | Orange | ![ellipse orange](logos/ellipse/orange.png) | [PNG](https://raw.githubusercontent.com/NovicIAdo/brand-kit/main/logos/ellipse/orange.png) | [SVG](https://raw.githubusercontent.com/NovicIAdo/brand-kit/main/logos/ellipse/orange.svg) |
 | White | ![ellipse white](logos/ellipse/white.png) | [PNG](https://raw.githubusercontent.com/NovicIAdo/brand-kit/main/logos/ellipse/white.png) | [SVG](https://raw.githubusercontent.com/NovicIAdo/brand-kit/main/logos/ellipse/white.svg) |
+| Matrix | ![ellipse matrix](logos/ellipse/noviciado-matrix-circle.png) | [PNG](https://raw.githubusercontent.com/NovicIAdo/brand-kit/main/logos/ellipse/noviciado-matrix-circle.png) | — |
 
 ### Ellipse — direct links
 
@@ -52,6 +53,7 @@ https://raw.githubusercontent.com/NovicIAdo/brand-kit/main/<path>
 | Green | ![square green](logos/square/green.png) | [PNG](https://raw.githubusercontent.com/NovicIAdo/brand-kit/main/logos/square/green.png) | [SVG](https://raw.githubusercontent.com/NovicIAdo/brand-kit/main/logos/square/green.svg) |
 | Orange | ![square orange](logos/square/orange.png) | [PNG](https://raw.githubusercontent.com/NovicIAdo/brand-kit/main/logos/square/orange.png) | [SVG](https://raw.githubusercontent.com/NovicIAdo/brand-kit/main/logos/square/orange.svg) |
 | White | ![square white](logos/square/white.png) | [PNG](https://raw.githubusercontent.com/NovicIAdo/brand-kit/main/logos/square/white.png) | [SVG](https://raw.githubusercontent.com/NovicIAdo/brand-kit/main/logos/square/white.svg) |
+| Matrix | ![square matrix](logos/square/noviciado-matrix-square.png) | [PNG](https://raw.githubusercontent.com/NovicIAdo/brand-kit/main/logos/square/noviciado-matrix-square.png) | — |
 
 ### Square — direct links
 
